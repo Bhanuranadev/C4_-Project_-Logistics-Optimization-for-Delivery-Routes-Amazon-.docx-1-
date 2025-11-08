@@ -1,0 +1,2 @@
+# C4_-Project_-Logistics-Optimization-for-Delivery-Routes-Amazon-.docx-1-
+Amazon, a global e-commerce leader, handles millions of daily shipments across various regions. The logistics network is vast, comprising warehouses, fulfillment centers, and last-mile delivery partners. With increasing order volumes, delays and inefficiencies in delivery routes can significantly affect customer satisfaction and operational costs. 
